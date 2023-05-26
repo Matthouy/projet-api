@@ -1,0 +1,27 @@
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\App front.exe.config
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\App front.exe
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\App front.pdb
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.csproj.AssemblyReference.cache
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.csproj.SuggestedBindingRedirects.cache
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\MainWindow.g.cs
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App.g.cs
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front_MarkupCompile.cache
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front_MarkupCompile.lref
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\MainWindow.baml
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.g.resources
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App_front.Properties.Resources.resources
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.csproj.GenerateResource.cache
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.csproj.CoreCompileInputs.cache
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.exe
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.pdb
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\App front.csproj.CopyComplete
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\FormulaireAjoutPlat.baml
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\FormulaireAjoutPlat.g.cs
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\FormulaireAjoutMenu.g.cs
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\FormulaireAjoutMenu.baml
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\ListeMenus.g.cs
+C:\Users\Matthieu\Desktop\ProjetInfo\App front\obj\Debug\ListeMenus.baml

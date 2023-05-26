@@ -1,0 +1,27 @@
+﻿<Window x:Class="App_front.FormulaireAjoutPlat"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Ajouter un plat" Height="300" Width="400">
+    <Grid>
+        <!-- Contrôles pour saisir les détails du plat -->
+        <Label Content="Nom :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,97,0,0"/>
+        <TextBox x:Name="txtNom" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,101,0,0" Width="70"/>
+
+        <Label Content="Catégorie :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,123,0,0"/>
+        <ComboBox x:Name="cmbCategorie" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="82,125,0,0" Width="82">
+            <ComboBoxItem Content="Burger"/>
+            <ComboBoxItem Content="Boisson"/>
+            <ComboBoxItem Content="Dessert"/>
+        </ComboBox>
+
+        <Label Content="Prix :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,146,0,0"/>
+        <TextBox x:Name="txtPrix" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="50,150,0,0" Width="58"/>
+
+        <!-- Boutons pour soumettre ou annuler le formulaire -->
+        <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="0,30">
+            <Button Content="Valider" Width="100" Margin="10" Click="Valider_Click"/>
+            <Button Content="Annuler" Width="100" Margin="10" Click="Annuler_Click"/>
+        </StackPanel>
+        <Label Content="Prix :" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,146,0,0"/>
+    </Grid>
+</Window>

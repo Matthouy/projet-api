@@ -1,0 +1,23 @@
+﻿<Window x:Class="App_front.ListeMenus"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:App_front"
+        mc:Ignorable="d"
+        Loaded="Window_Loaded"
+        Title="ListeMenus" Height="450" Width="800">
+    <Grid>
+        <ListBox x:Name="menuList" d:ItemsSource="{d:SampleData ItemCount=5}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <TextBlock Text="{Binding burger}" Margin="0,0,10,0"/>
+                        <TextBlock Text="{Binding boisson}" Margin="0,0,10,0"/>
+                        <TextBlock Text="{Binding dessert}"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</Window>
